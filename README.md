@@ -32,5 +32,7 @@ Ejecutar la clase:
 
 ## Diagrama UML
 
-[Diagrama UML](UML_AbstractFactory.png)
+## Diagrama UML
+![Diagrama UML](UML_AbstractFactory.png)
+
 
