@@ -30,3 +30,7 @@ Se utilizó el patrón **Abstract Factory**, donde:
 ## Ejecución
 Ejecutar la clase:
 
+## Diagrama UML
+
+[Diagrama UML](UML_AbstractFactory.png)
+
